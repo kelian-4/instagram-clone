@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "20501a5ea6c18b91cec83910818d1f7f",
+    "content-hash": "99534ff34ea8e4bd0e4c023387226a53",
     "packages": [
         {
             "name": "brick/math",
@@ -2211,16 +2211,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "3.12.0",
+            "version": "3.12.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CarbonPHP/carbon.git",
-                "reference": "25963f9ecbba8ea636b73de74a4e0d9b375bce4e"
+                "reference": "0bfd6ef93c14ddcf8214f0e371541a6ca2d81adc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/25963f9ecbba8ea636b73de74a4e0d9b375bce4e",
-                "reference": "25963f9ecbba8ea636b73de74a4e0d9b375bce4e",
+                "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/0bfd6ef93c14ddcf8214f0e371541a6ca2d81adc",
+                "reference": "0bfd6ef93c14ddcf8214f0e371541a6ca2d81adc",
                 "shasum": ""
             },
             "require": {
@@ -2312,7 +2312,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-06-14T14:20:55+00:00"
+            "time": "2026-06-14T16:35:52+00:00"
         },
         {
             "name": "nette/schema",
@@ -8426,7 +8426,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^8.3"
+        "php": "^8.4"
     },
     "platform-dev": {},
     "plugin-api-version": "2.9.0"
